@@ -1,0 +1,15 @@
+dataFiles : contains the binary data that can be loaded onto tecplot
+Files :
+*47100.plt - 12.00T
+*48275.plt - 12.25T
+*49550.plt - 12.5T
+*50300.plt - 12.75T
+*51050.plt - 13.00T
+*54900.plt - 14.00T
+*58800.plt - 15.00T
+*62700.plt - 16.00T
+
+layoutFiles : the tecplot layout files
+
+TimeSeries : ./Code - Code for plotting the spectra
+             *.pickle - Binary data with t,u,v variables at P1 and P2

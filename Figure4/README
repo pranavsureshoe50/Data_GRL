@@ -1,0 +1,1 @@
+TimeSeries*.pickle contains time instants and spanwise velocity (V) data, which is loaded into python at each fstar value. The code is same as that used in Figure3
